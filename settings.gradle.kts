@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Zoomista"
 include(":app")
- 
+include(":zoomista")
